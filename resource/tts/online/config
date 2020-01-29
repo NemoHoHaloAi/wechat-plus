@@ -1,8 +1,0 @@
-[conf]
-productId = 278571380
-voiceId = zhilingfa
-volume = 100
-speed = 1
-audioType = wav
-mp3Quality = high
-textType = text
